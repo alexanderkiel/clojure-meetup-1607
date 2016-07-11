@@ -110,4 +110,4 @@ average-fruit-amount
     ;; ...
     ))
 
-
+;; NEXT: https://github.com/ClojureBridge/global-growth
